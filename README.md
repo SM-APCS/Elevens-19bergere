@@ -11,3 +11,13 @@ Yes because the deck is empty and that means all of the number cards are paired 
 3. Does the game involve any strategy? That is, when more than one play is possible, does it matter which one is chosen? Briefly explain your answer.
 
 Yes it helps to choos a J,Q,K trio over a pair because it will generate three new cards not two and open up new combinations.
+
+
+
+Activity 8:
+
+1) They all have a full deck of cards and a board. Some of the functions such as deckSize, isEmpty all have a three card eal. Some functions require different implementations though such as isLegal();. THere are a few functions that exist and are not sharable.
+
+2) THe instince variable is initialized in the Board class. Inside the ElevensBoard, the values are passedinto the constuctor of the supercalss.
+
+3)They cover all the differences because all of the methods can be shared becuase they all implement in the board class. SOme of them overlap because they are arbstract.
